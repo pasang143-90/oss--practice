@@ -1,0 +1,6 @@
+hostname,cpu,disk,status
+server1,45,60,ok
+server2,85,90,warn
+server3,30,40,ok
+server4,92,95,crit
+server5,60,75,ok
